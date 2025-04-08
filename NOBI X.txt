@@ -88,7 +88,7 @@ end)
 
 -- 2. Aimbot Player
 Section5:NewButton("Aimbot Player🎯", "ล็อกหัวยิง", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Equinox-Hub/main/Aimbots/directions.lua", true))()
+    loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Aimbot-Universal-For-Mobile-and-PC-29153"))()
 end)
 
 -- 3. Hit box
