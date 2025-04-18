@@ -74,7 +74,7 @@ end)
 
 -- 2. Brookhaven Sound 
 Section4:NewButton("Sound BR2🎵", "ดีกว่าตัวแรก", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ameicaa1/brookhaven-script/main/brookhaven%20script.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ameicaa1/brookhaven-script/main/bt.lua"))()
 end)
 
 -- หมวดหมู่ Aimbot
